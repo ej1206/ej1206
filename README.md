@@ -1,4 +1,4 @@
-# ✨Eun Jung✨
+# Eun Jung🌱
 * [x] CBNU 정보통신공학부
 * [x] CBNU 산업인공지능학과
 
