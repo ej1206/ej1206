@@ -1,4 +1,6 @@
-### 충북대학교 산업인공지능학과 포트폴리오
+# ✨Eun Jung✨
+## CBNU 산업인공지능학과
+
 
 <!--
 **ej1206/ej1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
